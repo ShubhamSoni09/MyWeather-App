@@ -113,19 +113,4 @@ body{
     color: rgb(192, 37, 37);
 }
 
-/* To make the site responsive */
 
-@media screen 
-  and (device-width: 360px) 
-  and (device-height: 640px) 
-  and (-webkit-device-pixel-ratio: 3) 
-  and (orientation: portrait) {
-
-}
-
-/* @media only screen and (min-width: 768px) {
-  /* For desktop: */
-/*   .app-main {width: 80%;}
-  #footer {width: 100%;} */
-  
-/* } */ 

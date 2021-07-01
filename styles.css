@@ -112,3 +112,11 @@ body{
 .fas{
     color: rgb(192, 37, 37);
 }
+
+To make the site responsive
+
+@media only screen and (min-width: 768px) {
+  /* For desktop: */
+  .app-main {width: 100%;}
+  
+}
